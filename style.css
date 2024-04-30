@@ -1,0 +1,67 @@
+body{
+    font-family: serif;
+    background-color: #000000;
+}
+
+h1{
+    color: #ffffff;
+    text-align: center;
+    font-size: 38px;
+
+}
+
+.container{
+    text-align: center;
+    margin-left: 27%;
+    width: 440px;
+    border: 2px solid #ffffff;
+    padding: 22px;
+    
+}
+.num{
+    display: flex;
+    color: #ffffff;
+    margin-left: 6%;
+}
+h2{
+    font-size: 60px;
+    margin-inline: 7px;
+}
+
+button{
+    width: 100px;
+    height: 35px;
+    background-color: #cb1313;
+    color: #ffffff;
+    font-size: 24px;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    margin-inline: 8px;
+}
+
+button:hover{
+    border: 2px solid #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
